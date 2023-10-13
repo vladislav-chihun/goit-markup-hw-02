@@ -48,7 +48,7 @@ focus {
 }
 
 .web-logo {
-  color: var(--IRIS, #4d5ae5);
+  color: #f4f4fd;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -56,9 +56,9 @@ focus {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.logo {
+.top-logo {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16em; /* 116.667% */
@@ -103,7 +103,6 @@ focus {
   display: inline-flex;
   padding: 16px 32px;
   align-items: flex-start;
-  gap: 10px;
   cursor: pointer;
   color: #ffffff;
   background-color: #4d5ae5;
@@ -130,9 +129,9 @@ focus {
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
 }
-.footer-logo {
-  color: var(--IRIS, #f4f4fd);
-  font-family: Raleway;
+.logo {
+  color: var(--IRIS, #4d5ae5);
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16em; /* 116.667% */
