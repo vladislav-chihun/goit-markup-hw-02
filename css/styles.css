@@ -47,11 +47,9 @@ a {
   text-transform: capitalize;
 }
 .title-portfolio {
-  color: var(--NAVY-BLUE, #2e2f42);
-  text-align: center;
-
-  font-family: Roboto, sans-serif;
   color: #2e2f42;
+  text-align: center;
+  font-family: Roboto, sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11em; /* 111.111% */
@@ -134,18 +132,18 @@ a {
   font-weight: 500;
   line-height: 1.2em; /* 120% */
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: #2e2f42;
   flex-shrink: 0;
 }
 .text {
-  color: var(--SLATE, #434455);
+  color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
 }
 .logo {
-  color: var(--IRIS, #4d5ae5);
+  color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -154,7 +152,7 @@ a {
   text-transform: uppercase;
 }
 .footer-text {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em; /* 150% */
