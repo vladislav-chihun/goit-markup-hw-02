@@ -79,29 +79,15 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.nav-link {
+.navlink {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5em; /* 150% */
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-link:hover,
-.nav-link:focus {
-  color: #404bbf;
-}
-.nav-link-active {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5em; /* 150% */
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.nav-link-active:hover,
-.nav-link-active:focus {
-  color: #404bbf;
-}
-.nav-link-active:active {
+.navlink:hover,
+.navlink:focus {
   color: #404bbf;
 }
 .address-link {
