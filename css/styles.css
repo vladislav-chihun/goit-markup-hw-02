@@ -22,7 +22,7 @@ a {
   letter-spacing: 0.02em;
 }
 .address-link:hover,
-focus {
+.address-link:focus {
   color: #404bbf;
 }
 .main-title {
@@ -58,7 +58,7 @@ focus {
   text-transform: uppercase;
 }
 .top-logo {
-  color: #4d5ae5;
+  color: #2e2f42;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -74,7 +74,7 @@ focus {
   color: #2e2f42;
 }
 .nav-link:hover,
-focus {
+.nav-link:focus {
   color: #404bbf;
 }
 .nav-link-active {
@@ -85,7 +85,7 @@ focus {
   color: #2e2f42;
 }
 .nav-link-active:hover,
-focus {
+.nav-link-active:focus {
   color: #404bbf;
 }
 .nav-link-active:active {
@@ -101,12 +101,13 @@ focus {
   background-color: #2e2f42;
 }
 .button {
+  font-family: "Roboto", sans-serif;
   cursor: pointer;
   color: #ffffff;
   background-color: #4d5ae5;
 }
 .button:hover,
-focus {
+.button:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
@@ -142,4 +143,7 @@ focus {
 }
 .pic-color {
   background-color: #ffffff;
+}
+.address {
+  font-style: normal;
 }
