@@ -26,7 +26,7 @@ body {
   color: #404bbf;
 }
 .main-title {
-  color: var(--WHITE, #fff);
+  color: #ffffff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
